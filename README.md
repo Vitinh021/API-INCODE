@@ -1,6 +1,6 @@
 # API-INCODE
 
-API RESTful desenvolvida com **Express.js** e **MySQL**, pronta para ser consumida por um frontend React. Todo o projeto está containerizado com **Docker**, facilitando a execução em qualquer ambiente.
+API RESTfull para um software educacional que ensina as pessoas a programar de forma gamificada. Todo o projeto está containerizado com **Docker**, facilitando a execução em qualquer ambiente.
 
 ---
 
