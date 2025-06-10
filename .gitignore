@@ -1,0 +1,45 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# logs
+logs/
+*.log
+log.txt
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.local
+docker-compose.override.yml
+
+# Build
+dist/
+build/
+
+# MySQL dump or temp files
+*.sql
+*.sql.gz
+
+# Others
+*.bak
+*.tmp
+
+# Optional if you're using Linux and compiling native modules
+*.out
+
+# Ignore compiled TypeScript if using ts
+*.tsbuildinfo
