@@ -32,7 +32,7 @@ git clone https://github.com/Vitinh021/API-INCODE.git -> clonar projeto
 docker-compose up --build -> construir
 docker-compose up         -> rodar
 docker-compose down       -> parar
-
+```
 
 ---
 
